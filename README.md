@@ -16,15 +16,6 @@ Full-stack dev · Barcelona
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=xkhaliil&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkhaliil&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 ![](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,flutter,dart,postgres,mongodb,mysql,firebase,prisma,docker,git,figma&theme=dark)
 
 </div>
