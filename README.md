@@ -12,13 +12,19 @@ Full-stack dev · Barcelona
 
 **Now:** Software Engineer @ Hounder AI · Co-Founder @ Devoxys
 
-**Stack:** React · Next.js · TypeScript · Node · Flutter · PostgreSQL · Prisma
+---
+
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=xkhaliil&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkhaliil&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=xkhaliil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkhaliil&layout=compact&theme=tokyonight&hide_border=true"/>
+![](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,flutter,dart,postgres,mongodb,mysql,firebase,prisma,docker,git,figma&theme=dark)
 
 </div>
